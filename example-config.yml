@@ -1,0 +1,6 @@
+version: 1.0
+title: "Example configuration"
+
+success_conditions:
+  - name: "Test Google"
+    url: "https://google.com"
