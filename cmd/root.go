@@ -4,8 +4,9 @@ Copyright © 2024 Benedikt Ricken <contact@benediktricken.de>
 package cmd
 
 import (
-	"benedikt/infratester/tester"
 	"os"
+
+	"github.com/benCoder/guardian/tester"
 
 	"github.com/spf13/cobra"
 )

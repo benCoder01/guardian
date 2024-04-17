@@ -1,4 +1,4 @@
-module benedikt/infratester
+module github.com/benCoder/guardian
 
 go 1.22.2
 

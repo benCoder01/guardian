@@ -1,10 +1,9 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2024 Benedikt Ricken <contact@benediktricken.de>
 */
 package main
 
-import "benedikt/infratester/cmd"
+import "github.com/benCoder/guardian/cmd"
 
 func main() {
 	cmd.Execute()
